@@ -1,4 +1,4 @@
-# Quizzer | Test Your Knowledge In Programming
+# Quizzerr | Test Your Knowledge In Programming
 
 A place to test your knowledge and skill in different programming languages. The quiz consists of total 25 questions with a time limit of 5 minutes. Try to get a perfect score of 25/25.
 
