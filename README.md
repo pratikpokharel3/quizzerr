@@ -8,7 +8,7 @@ Now, build something great!
 
 ## Built With
 
-- [Vue.js](https://vuejs.org/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/)
+- [Vue.js](https://vuejs.org/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/) + [Bootstrap](https://getbootstrap.com/) (CDN)
 
 ## Recommended IDE Setup
 
